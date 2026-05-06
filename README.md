@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deep Patel</h1>
 <h3 align="center">🚀 Aspiring Software Developer | IT Student</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deeppatel2109&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -24,21 +20,6 @@
 
 ## 📌 Projects
 - 🔹 AI-Based Skin Detection System
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=radical" />
-</p>
 
 ---
 
