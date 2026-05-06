@@ -51,3 +51,7 @@
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
 </p>
+<a href="deeppatel4885@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
